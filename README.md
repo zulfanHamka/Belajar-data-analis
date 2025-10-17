@@ -3,3 +3,5 @@
 "# Belajar-python" 
 "# Belajar-python" 
 "# Belajar-python" 
+"# job_market_2025" 
+"# Belajar-data-analis" 
